@@ -2,7 +2,7 @@
 body{
     margin: 0 auto;
     padding: 0;
-    background-image: url("img/bg2-full.jpg");
+    background-image: url("img/bg-full.jpg");
     background-repeat: no-repeat;
     }
 
@@ -17,7 +17,7 @@ body{
     .content{
         display: flex;
         flex-direction: column;
-        max-width: 400px;
+        max-width: 350px;
         background-color: darkcyan;
         overflow: hidden;
         border-radius: 10px;
